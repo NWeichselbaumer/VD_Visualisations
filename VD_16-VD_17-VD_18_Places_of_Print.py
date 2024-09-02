@@ -1173,7 +1173,7 @@ ax.set_facecolor('white')
 fig.patch.set_facecolor('white')
 
 # Speichere die Grafik als SVG ohne Titel und Umrandung
-output_path = "C:/druckorte_vd16_vd17_vd18_combined.svg"
+output_path = "C:/VD_16-VD_17-VD_18_Places_of_Print.svg"
 plt.savefig(output_path, format='svg', bbox_inches='tight')
 
 # Zeige die Grafik
